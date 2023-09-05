@@ -8,5 +8,9 @@ a.하나의 이미지에 3가지 모든 처리 단계를 표시한다
 이미지 데이터의 처음 지점과 3분의 1 지점, 3분의 2 지점을 가리키는 3개의 새로운 이미지 헤더를 만들어 이미지를 그곳에 복사한다.  
 그런 다음 Mat::copyTo()를 사용한다).
 ~~~
-   
+
+```
+build 폴더에서 실행파일 실행
+$ ./prac8 (video path)
+```
 <img width="1924" alt="image" src="https://github.com/silver7i/nsense/assets/77370836/c26c5ff0-535c-4a07-943b-3d852b571ba5">
