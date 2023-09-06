@@ -13,4 +13,4 @@ a.하나의 이미지에 3가지 모든 처리 단계를 표시한다
 build 폴더에서 실행파일 실행
 $ ./prac8 (video path)
 ```
-<img width="1924" alt="image" src="https://github.com/silver7i/nsense/assets/77370836/c26c5ff0-535c-4a07-943b-3d852b571ba5">
+<img width="1923" alt="prac8_1" src="https://github.com/silver7i/Running-OpenCV3/assets/77370836/1c77c767-b00b-438e-a2b3-a29860595ecd">
