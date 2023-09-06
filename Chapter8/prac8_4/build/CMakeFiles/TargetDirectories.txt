@@ -1,0 +1,3 @@
+/data/notebook/practice/prac8_4/build/CMakeFiles/rebuild_cache.dir
+/data/notebook/practice/prac8_4/build/CMakeFiles/edit_cache.dir
+/data/notebook/practice/prac8_4/build/CMakeFiles/prac8_4.dir
