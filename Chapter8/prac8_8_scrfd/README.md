@@ -1,3 +1,17 @@
+https://github.com/namdvt/SCRFD_FaceDetection_TensorRT 의 모델을 활용하여 진행했음.
+### [러닝! opencv3] 의 8장 연습문제(p216)  
+8번 문제  
+~~~
+얼굴 인식과 관련된 재미난 문제를 풀어보자. /samples/cpp/ 디렉터리의 facedetect.cpp를 빌드해 본다.
+해골 이미지를 직접 그리거나 웹에서 찾아 디스크에 저장한다. 해골 이미지를 로드하게 facedetect 프로그램을 수정한다.
+~~~
+
+```
+build 폴더에서 실행파일 실행
+$ ./prac8 (video path)
+```
+
+
 # SCRFD face detection TensorRT
 This is an implementation of the [SCRFD](https://arxiv.org/pdf/2105.04714.pdf) face detection with NVIDIA TensorRT C++ API.
 
